@@ -1,7 +1,6 @@
 __pycache__
-data
+data/parsed_data.json
 temp.py
 temp.xlsx
 temp.ipynb
 logs
-README.md
