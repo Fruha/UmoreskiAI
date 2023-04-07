@@ -1,4 +1,4 @@
-<img src="https://github.com/Fruha/UmoreskiAI/blob/master/git_images/umoreski.jpg" width="50%">
+<img src="https://github.com/Fruha/UmoreskiAI/blob/master/git_images/umoreski.jpg" width="50%" align="middle">
 
 
 ## Description
@@ -9,7 +9,7 @@
 ## Usage
 
 ### Online
-[**Huggingface**](https://huggingface.co/Fruha/UmoreskiAI)
+https://huggingface.co/Fruha/UmoreskiAI
 
 ### Downloading model
 ```python
