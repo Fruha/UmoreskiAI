@@ -1,4 +1,6 @@
-<img src="https://github.com/Fruha/UmoreskiAI/blob/master/git_images/umoreski.jpg" width="50%" align="middle">
+<p align="center">
+    <img src="https://github.com/Fruha/UmoreskiAI/blob/master/git_images/umoreski.jpg" width="50%">
+</p>
 
 
 ## Description
@@ -29,6 +31,9 @@ model = AutoModelForSequenceClassification.from_pretrained("Fruha/UmoreskiAI")
 ## Pipeline
 
 
+
 ## Plot of metrics
 
-<img src="https://github.com/Fruha/UmoreskiAI/blob/master/git_images/curves.png" width="80%">
+<p align="center">
+    <img src="https://github.com/Fruha/UmoreskiAI/blob/master/git_images/curves.png" width="80%">
+</p>
