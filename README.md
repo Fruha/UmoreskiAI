@@ -30,7 +30,7 @@ model = AutoModelForSequenceClassification.from_pretrained("Fruha/UmoreskiAI")
 
 ## Pipeline
 
-
+https://user-images.githubusercontent.com/57077738/230724600-aca4664d-4723-4358-a19d-cea9d1ca8fea.mp4
 
 ## Plot of metrics
 
